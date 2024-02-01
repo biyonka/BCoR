@@ -2,7 +2,7 @@
 
 We present Bayesian Learning for Contextual RMABs (BCoR), an online RL approach for restless bandits that novelly combines techniques in Bayesian modeling with Thompson sampling to flexibly model a wide range of complex restless bandit, such as contextual and non-stationary RMABs, which we design for a real-world public health intervention.
 
-This repository contains the implementation of the BCoR algorithm and all files for reproducing the results of Section 5.2 in the paper. Though we cannot release the real data simulator or anonymized dataset used in Section 5.3, the implementation of all methods under comparison were the same for both Sections 5.2 and 5.3, and hence, the implementations provided here are equivalent to what was used in the real data example. All scripts were run on a high-performance computing cluster from 2023-2024. 
+This repository contains the implementation of the BCoR algorithm and all files for reproducing the results of Section 5.2 in the paper. Though we cannot release the real data simulator or anonymized dataset used in Section 5.3, the implementation of all methods under comparison were the same for both Sections 5.2 and 5.3, and hence, the implementations provided here are equivalent to what was used in the real data example. All scripts were run on Harvard University's high-performance computing cluster from 2023-2024. 
 
  This repository contains following directories and files:
 
