@@ -1,5 +1,5 @@
 # A Bayesian Approach to Online Learning for Contextual Restless Bandits with Applications to Public Health
-Biyonka Liang, Lily Xu*, Aparna Taneja, Milind Tambe, Lucas Janson
+Biyonka Liang, Lily Xu, Aparna Taneja, Milind Tambe, Lucas Janson
 
 We present Bayesian Learning for Contextual RMABs (BCoR), an online RL approach for restless bandits that novelly combines techniques in Bayesian modeling with Thompson sampling to flexibly model a wide range of complex restless bandit, such as contextual and non-stationary RMABs, which we design for a real-world public health intervention.
 
